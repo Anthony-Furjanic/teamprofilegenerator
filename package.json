@@ -1,0 +1,25 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-Furjanic/teamprofilegenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony-Furjanic/teamprofilegenerator/issues"
+  },
+  "homepage": "https://github.com/Anthony-Furjanic/teamprofilegenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "install": "^0.13.0",
+    "jest": "^29.3.1"
+  }
+}
